@@ -1,8 +1,7 @@
 # Welcome to Open Mobile Alliance (a.k.a OMASpecWorks)
 
-<figure>
-    <img src="../omaspecworks_logotag_CMYK.png">
-</figure>
+![image](https://github.com/OpenMobileAlliance/.github/assets/3258579/3ab86187-c12e-4638-bbc3-e6e92e214222)
+
 
 ## OMA Public Repositories.
 
