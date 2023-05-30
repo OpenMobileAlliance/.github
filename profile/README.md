@@ -24,7 +24,7 @@
 ## OMA Members Repositories
 
 `Note: you need to be an OMA member to access these repositories`
-* <a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a>
+* <a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a>
 
 <table>
 <thead>
