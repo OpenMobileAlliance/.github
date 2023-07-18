@@ -24,41 +24,107 @@
 ## OMA Members Repositories
 
 `Note: you need to be an OMA member to access these repositories`
-* <a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a>
 
 <table>
 <thead>
     <tr>
+        <th>Admin</th>
         <th>LwM2M Objects</th>
         <th>LwM2M Protocol</th>
-        <th>LwM2M Enablers</th>
-        <th>Websites</th>
+        <th colspan="2" style="text-align: center">LwM2M Enablers</th>
     </tr>
 </thead>
 <tbody>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a>
         <td><a href="https://github.com/OpenMobileAlliance/objects-lwm2m" target="_blank">Objects LwM2M</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/LwM2M" target="_blank">LwM2M</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a></td>    
+        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog (dev/master)</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/binary_app_data_container" target="_blank">binary_app_data_container</a></td>   
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/enabler_template_repo" target="_blank">enabler_template_repo</a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="https://github.com/OpenMobileAlliance/ETS_LwM2M" target="_blank">ETS LwM2M</a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/oma_working_groups" target="_blank">OMA Working Groups</a></td>    
+        <td><a href="https://github.com/OpenMobileAlliance/advanced_firmware_update" target="_blank">advanced_firmware_update</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-time-series" target="_blank">lwm2m-time-series</a></td>    
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a> (Archived) </td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="" target="_blank"></a></td>    
+        <td><a href="https://github.com/OpenMobileAlliance/complex-data-types" target="_blank">complex-data-types</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-bootstrapping-cellular-networks" target="_blank">Lwm2m-bootstrapping-cellular-networks (main/tech_specs)</a></td>   
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/Gateway" target="_blank">Gateway</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-queries" target="_blank">lwm2m-queries</a> (main/WID)</td>    
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
         <td><a href="" target="_blank"></a></td>
-        <td><a href="" target="_blank"></a></td>    
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/DevCapMgmt" target="_blank">DevCapMgmt</a></td>    
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lock_wipe" target="_blank">lock_wipe</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>    
+    </tr>
+</tbody>
+</table>
+
+## OMA Websites
+
+<table>
+<thead>
+    <tr>
+        <th>Websites</th>
+        <th>Repositories</th>
+        <th>Description</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td><a href="https://guidelines.openmobilealliance.org/" target="_blank">Protocol</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a></td>
+        <td>This repository is dedicated to DMSE documentation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://openmobilealliance.github.io/oma_working_groups/" target="_blank">OMA Working Groups</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/oma_working_groups" target="_blank">oma_working_group</a></td>
+        <td>This repository s dedicated to OMA Members and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://lwm2m.openmobilealliance.org/" target="_blank">LwM2M</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/oma_github_pages" target="_blank">oma_github_pages</a></td>
+        <td>This repository is dedicated to hosting the lwm2m GitHub pages content.</td>
+    </tr>
+    <tr>
+        <td><a href="https://openmobilealliance.github.io/githubpages-doc-guidelines/" target="_blank">GitHub pages</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/githubpages-doc-guidelines" target="_blank">githubpages-doc-guidelines</a></td>
+        <td>This repository is dedicated to guidelines on how to update content and configuration of the DMSE/IPSO GitHub pages.</td>
+    </tr>
+    <tr>
+        <td><a href="http://technical.openmobilealliance.org" target="_blank">Technical Publication</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/technical.openmobilealliance.org" target="_blank">technical.openmobilealliance.org</a></td>
+        <td>Repository for the GitHub pages site for technical.openmobilealliance.org technical pages.</td>
+    </tr>
+    <tr>
+        <td><a href="https://openmobilealliance.github.io/lwm2m-validation/" target="_blank">lwm2m-validation-tool</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-validation" target="_blank">lwm2m-validation</a></td>
+        <td>This repository is dedicated to LwM2M Validation Tool.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><a href="https://github.com/OpenMobileAlliance/maintain-github-pages" target="_blank">maintain-github-pages</a></td>
+        <td>Documentation how to maintain OMA Github Pages.</td>
     </tr>
 </tbody>
 </table>
