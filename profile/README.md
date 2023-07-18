@@ -92,7 +92,7 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="https://guidelines.openmobilealliance.org/" target="_blank">Protocol</a></td>
+        <td><a href="https://guidelines.openmobilealliance.org/" target="_blank">Guidelines</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a></td>
         <td>This repository is dedicated to DMSE documentation.</td>
     </tr>
