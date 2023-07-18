@@ -50,14 +50,14 @@
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-time-series" target="_blank">lwm2m-time-series</a></td>    
     </tr>
     <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a> (Archived) </td>
+        <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a> (Archived)</td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="https://github.com/OpenMobileAlliance/complex-data-types" target="_blank">complex-data-types</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-bootstrapping-cellular-networks" target="_blank">Lwm2m-bootstrapping-cellular-networks (main/tech_specs)</a></td>   
     </tr>
     <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a> (Archived)</td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="https://github.com/OpenMobileAlliance/Gateway" target="_blank">Gateway</a></td>
