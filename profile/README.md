@@ -64,7 +64,7 @@
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-queries" target="_blank">lwm2m-queries</a> (main/WID)</td>    
     </tr>
     <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/dot-github" target="_blank">dot-github</a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
