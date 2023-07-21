@@ -5,7 +5,7 @@
 
 ## OMA Public Repositories
 
-<table style="margin-left:auto;margin-right:auto">
+<table align="center">
 <thead>
     <tr>
         <th>Public Repos</th>
