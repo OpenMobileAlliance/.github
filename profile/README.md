@@ -3,9 +3,9 @@
 ![image](https://github.com/OpenMobileAlliance/.github/assets/3258579/3ab86187-c12e-4638-bbc3-e6e92e214222)
 
 
-## OMA Public Repositories.
+## OMA Public Repositories
 
-<table>
+<table style="margin-left:auto;margin-right:auto">
 <thead>
     <tr>
         <th>Public Repos</th>
@@ -18,6 +18,7 @@
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers" target="_blank">OMA_LwM2M_for_Developers</a></td>
     </tr>
+    
 </tbody>
 </table>
 
@@ -50,6 +51,21 @@
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-time-series" target="_blank">lwm2m-time-series</a></td>    
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/DevCapMgmt" target="_blank">DevCapMgmt</a></td>    
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lock_wipe" target="_blank">lock_wipe</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>    
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a> (Archived)</td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
@@ -62,20 +78,6 @@
         <td><a href="" target="_blank"></a></td>
         <td><a href="https://github.com/OpenMobileAlliance/Gateway" target="_blank">Gateway</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-queries" target="_blank">lwm2m-queries</a> (main/WID)</td>    
-    </tr>
-    <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/dot-github" target="_blank">dot-github</a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/DevCapMgmt" target="_blank">DevCapMgmt</a></td>    
-    </tr>
-    <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="" target="_blank"></a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/lock_wipe" target="_blank">lock_wipe</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>    
     </tr>
 </tbody>
 </table>
