@@ -65,7 +65,6 @@
         <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>    
     </tr>
     <tr>
-        <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a> (Archived)</td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
