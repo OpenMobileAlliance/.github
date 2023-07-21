@@ -100,12 +100,12 @@
     <tr>
         <td><a href="https://openmobilealliance.github.io/oma_working_groups/" target="_blank">OMA Working Groups</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/oma_working_groups" target="_blank">oma_working_group</a></td>
-        <td>This repository s dedicated to OMA Members and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
+        <td>This repository s dedicated to OMA Members, and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
     </tr>
     <tr>
         <td><a href="https://lwm2m.openmobilealliance.org/" target="_blank">LwM2M</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/oma_github_pages" target="_blank">oma_github_pages</a></td>
-        <td>This repository is dedicated to hosting the lwm2m GitHub pages content.</td>
+        <td>This repository is dedicated to hosting the lwm2m GitHub page content.</td>
     </tr>
     <tr>
         <td><a href="https://openmobilealliance.github.io/githubpages-doc-guidelines/" target="_blank">GitHub pages</a></td>
@@ -125,7 +125,7 @@
     <tr>
         <td></td>
         <td><a href="https://github.com/OpenMobileAlliance/maintain-github-pages" target="_blank">maintain-github-pages</a></td>
-        <td>Documentation how to maintain OMA Github Pages.</td>
+        <td>Documentation on how to maintain OMA Github Pages.</td>
     </tr>
 </tbody>
 </table>
