@@ -40,7 +40,7 @@
         <td><a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a>
         <td><a href="https://github.com/OpenMobileAlliance/objects-lwm2m" target="_blank">Objects LwM2M</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/LwM2M" target="_blank">LwM2M</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog (dev/master)</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/binary_app_data_container" target="_blank">binary_app_data_container</a></td>   
     </tr>
     <tr>
