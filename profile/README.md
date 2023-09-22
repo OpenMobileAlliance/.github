@@ -65,6 +65,13 @@
         <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>    
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>
+        <td><a href="" target="_blank"></a></td>    
+    </tr>
+    <tr>
         <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a> (Archived)</td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
