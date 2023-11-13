@@ -134,5 +134,10 @@
         <td><a href="https://github.com/OpenMobileAlliance/maintain-github-pages" target="_blank">maintain-github-pages</a></td>
         <td>Documentation how to maintain OMA Github Pages.</td>
     </tr>
+     <tr>
+        <td><a href="http://devtoolkit.openmobilealliance.org/OEditor/Default" target="_blank">OEditor</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/OMA_LWM2M_Editor" target="_blank">oma-lwm2m-editor</a></td>
+        <td>OMA LwM2M Objects and Resources Editor</td>
+    </tr>
 </tbody>
 </table>
