@@ -16,13 +16,13 @@
 <tbody>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-registry" target="_blank">lwm2m-registry</a></td>
-        <td>[lwm2m-northbound-api](https://github.com/OpenMobileAlliance/lwm2m-northbound-api)</td>
-        <td>[DMSO Project Overview](https://github.com/orgs/OpenMobileAlliance/projects/2/views/4)</td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-northbound-api" target="_blank">lwm2m-northbound-api</a></td>
+        <td><a href="https://github.com/orgs/OpenMobileAlliance/projects/2/views/4" target="_blank">DMSO Project Overview</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers" target="_blank">OMA_LwM2M_for_Developers</a></td>
         <td></td>
-        <td>[Northbound API](https://github.com/orgs/OpenMobileAlliance/projects/5/views/1)</td>
+        <td><a href="https://github.com/orgs/OpenMobileAlliance/projects/5/views/1" target="_blank">Northbound API</a></td>
     </tr>
 </tbody>
 </table>
