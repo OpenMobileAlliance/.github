@@ -3,22 +3,27 @@
 ![image](https://github.com/OpenMobileAlliance/.github/assets/3258579/3ab86187-c12e-4638-bbc3-e6e92e214222)
 
 
-## OMA Public Repositories
+## OMA Repositories & Projects
 
 <table align="center">
 <thead>
     <tr>
         <th>Public Repos</th>
+        <th>API</th>
+        <th>Projects</th>
     </tr>
 </thead>
 <tbody>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-registry" target="_blank">lwm2m-registry</a></td>
+        <td>[lwm2m-northbound-api](https://github.com/OpenMobileAlliance/lwm2m-northbound-api)</td>
+        <td>[DMSO Project Overview](https://github.com/orgs/OpenMobileAlliance/projects/2/views/4)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers" target="_blank">OMA_LwM2M_for_Developers</a></td>
+        <td></td>
+        <td>[Northbound API](https://github.com/orgs/OpenMobileAlliance/projects/5/views/1)</td>
     </tr>
-    
 </tbody>
 </table>
 
