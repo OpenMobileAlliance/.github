@@ -9,8 +9,8 @@
 <thead>
     <tr>
         <th>Public Repos</th>
-        <th>API</th>
-        <th>Projects</th>
+        <th>*API</th>
+        <th>*Projects</th>
     </tr>
 </thead>
 <tbody>
@@ -29,7 +29,7 @@
 
 ## OMA Members Repositories
 
-`Note: you need to be an OMA member to access these repositories`
+`* Note: you need to be an OMA member to access these repositories`
 
 <table>
 <thead>
