@@ -129,11 +129,6 @@
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-validation" target="_blank">lwm2m-validation</a></td>
         <td>This repository is dedicated to LwM2M Validation Tool.</td>
     </tr>
-    <tr>
-        <td></td>
-        <td><a href="https://github.com/OpenMobileAlliance/maintain-github-pages" target="_blank">maintain-github-pages</a></td>
-        <td>Documentation how to maintain OMA Github Pages.</td>
-    </tr>
      <tr>
         <td><a href="http://devtoolkit.openmobilealliance.org/OEditor/Default" target="_blank">OEditor</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LWM2M_Editor" target="_blank">oma-lwm2m-editor</a></td>
