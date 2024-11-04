@@ -3,28 +3,33 @@
 ![image](https://github.com/OpenMobileAlliance/.github/assets/3258579/3ab86187-c12e-4638-bbc3-e6e92e214222)
 
 
-## OMA Public Repositories
+## OMA Repositories & Projects
 
-<table style="margin-left:auto;margin-right:auto">
+<table align="center">
 <thead>
     <tr>
         <th>Public Repos</th>
+        <th>*API</th>
+        <th>*Projects</th>
     </tr>
 </thead>
 <tbody>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/lwm2m-registry" target="_blank">lwm2m-registry</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/lwm2m-northbound-api" target="_blank">lwm2m-northbound-api</a></td>
+        <td><a href="https://github.com/orgs/OpenMobileAlliance/projects/2/views/4" target="_blank">DMSO Project Overview</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers" target="_blank">OMA_LwM2M_for_Developers</a></td>
+        <td></td>
+        <td><a href="https://github.com/orgs/OpenMobileAlliance/projects/5/views/1" target="_blank">Northbound API</a></td>
     </tr>
-    
 </tbody>
 </table>
 
 ## OMA Members Repositories
 
-`Note: you need to be an OMA member to access these repositories`
+`* Note: you need to be an OMA member to access these repositories`
 
 <table>
 <thead>
@@ -40,7 +45,7 @@
         <td><a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a>
         <td><a href="https://github.com/OpenMobileAlliance/objects-lwm2m" target="_blank">Objects LwM2M</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/LwM2M" target="_blank">LwM2M</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog (dev/master)</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/binary_app_data_container" target="_blank">binary_app_data_container</a></td>   
     </tr>
     <tr>
@@ -68,7 +73,7 @@
         <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
         <td><a href="" target="_blank"></a></td>
         <td><a href="" target="_blank"></a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/compact-composite" target="_blank"></a>compact-composite</td>
+        <td><a href="https://github.com/OpenMobileAlliance/compact-composite" target="_blank">compact-composite</a></td>
         <td><a href="" target="_blank"></a></td>    
     </tr>
     <tr>
@@ -107,12 +112,12 @@
     <tr>
         <td><a href="https://openmobilealliance.github.io/oma_working_groups/" target="_blank">OMA Working Groups</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/oma_working_groups" target="_blank">oma_working_group</a></td>
-        <td>This repository s dedicated to OMA Members and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
+        <td>This repository s dedicated to OMA Members, and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
     </tr>
     <tr>
         <td><a href="https://lwm2m.openmobilealliance.org/" target="_blank">LwM2M</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/oma_github_pages" target="_blank">oma_github_pages</a></td>
-        <td>This repository is dedicated to hosting the lwm2m GitHub pages content.</td>
+        <td>This repository is dedicated to hosting the lwm2m GitHub page content.</td>
     </tr>
     <tr>
         <td><a href="https://openmobilealliance.github.io/githubpages-doc-guidelines/" target="_blank">GitHub pages</a></td>
@@ -133,6 +138,6 @@
         <td><a href="http://devtoolkit.openmobilealliance.org/OEditor/Default" target="_blank">OEditor</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/OMA_LWM2M_Editor" target="_blank">oma-lwm2m-editor</a></td>
         <td>OMA LwM2M Objects and Resources Editor</td>
-    </tr>
+     </tr>
 </tbody>
 </table>
