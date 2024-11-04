@@ -105,9 +105,9 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="https://guidelines.openmobilealliance.org/" target="_blank">Guidelines</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/dmse-documentation" target="_blank">dmso-documentation</a></td>
-        <td>This repository is dedicated to DMSE documentation.</td>
+        <td><a href="https://www.openmobilealliance.org/" target="_blank">Open Mobile Alliance</a></td>
+        <td><a href="https://github.com/OpenMobileAlliance/oma-knowledge-base" target="_blank">oma-knowledge-base</a></td>
+        <td>This repository centralizes all essential documentation, GitHub page content, and technical resources for OMA, including DMSE and LwM2M. This unified hub enhances accessibility and streamlines content management for all OMA technical documentation and guidance.</a></td>
     </tr>
     <tr>
         <td><a href="https://openmobilealliance.github.io/oma_working_groups/" target="_blank">OMA Working Groups</a></td>
@@ -115,19 +115,9 @@
         <td>This repository s dedicated to OMA Members, and it provides detailed explanations on how to contribute to the development of OMA Technical Specifications using GitHub.</a></td>
     </tr>
     <tr>
-        <td><a href="https://lwm2m.openmobilealliance.org/" target="_blank">LwM2M</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/oma_github_pages" target="_blank">oma_github_pages</a></td>
-        <td>This repository is dedicated to hosting the lwm2m GitHub page content.</td>
-    </tr>
-    <tr>
         <td><a href="https://openmobilealliance.github.io/githubpages-doc-guidelines/" target="_blank">GitHub pages</a></td>
         <td><a href="https://github.com/OpenMobileAlliance/githubpages-doc-guidelines" target="_blank">githubpages-doc-guidelines</a></td>
         <td>This repository is dedicated to guidelines on how to update content and configuration of the DMSE/IPSO GitHub pages.</td>
-    </tr>
-    <tr>
-        <td><a href="http://technical.openmobilealliance.org" target="_blank">Technical Publication</a></td>
-        <td><a href="https://github.com/OpenMobileAlliance/technical.openmobilealliance.org" target="_blank">technical.openmobilealliance.org</a></td>
-        <td>Repository for the GitHub pages site for technical.openmobilealliance.org technical pages.</td>
     </tr>
     <tr>
         <td><a href="https://openmobilealliance.github.io/lwm2m-validation/" target="_blank">lwm2m-validation-tool</a></td>
