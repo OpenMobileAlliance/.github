@@ -1,6 +1,6 @@
-# Welcome to Open Mobile Alliance (a.k.a OMASpecWorks)
+# Welcome to Open Mobile Alliance
 
-![image](https://github.com/OpenMobileAlliance/.github/assets/3258579/3ab86187-c12e-4638-bbc3-e6e92e214222)
+![image](/profile/OMA-new-logo-light.png)
 
 
 ## OMA Repositories & Projects
