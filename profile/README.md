@@ -133,6 +133,12 @@
     <tr>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/data-model" target="_blank">data-model</a></td>
+      <td><a href="" target="_blank"></a></td>
+    </tr>
+    <tr>
+      <td><a href="" target="_blank"></a></td>
+      <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
     </tr>
