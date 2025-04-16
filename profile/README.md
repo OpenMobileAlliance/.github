@@ -137,6 +137,12 @@
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
+     <td><a href="" target="_blank"></a></td>
+     <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Documentation" target="_blank">uCIFI-Documentation</a></td>
+     <td><a href="" target="_blank"></a></td>
+   </tr>
+    <tr>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
