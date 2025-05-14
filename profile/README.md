@@ -52,7 +52,7 @@
     <td><a href="https://github.com/OpenMobileAlliance/binary_app_data_container" target="_blank">binary_app_data_container</a></td>
   </tr>
    <tr>
-     <td><a href="" target="_blank"></a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/ETS_LwM2M" target="_blank">ETS LwM2M</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/advanced_firmware_update" target="_blank">advanced_firmware_update</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/lwm2m-time-series" target="_blank">lwm2m-time-series</a></td>
