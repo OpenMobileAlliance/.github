@@ -132,8 +132,8 @@
     </tr>
     <tr>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
       <td><a href="https://github.com/OpenMobileAlliance/data-model" target="_blank">data-model</a></td>
+      </td>
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
@@ -148,7 +148,13 @@
       <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
       <td><a href="" target="_blank"></a></td>
     </tr>
-    <tr>
+     <tr>
+      <td><a href="" target="_blank"></a></td>
+      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/scwg-data-model-framework" target="_blank">scwg-data-model-framework</a></td>
+      <td><a href="" target="_blank"></a></td>
+    </tr>
+     <tr>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
