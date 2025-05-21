@@ -132,20 +132,20 @@
     </tr>
     <tr>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/data-model" target="_blank">data-model</a></td>
-      </td>
+      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Documentation" target="_blank">uCIFI-Documentation</a>
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
      <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Documentation" target="_blank">uCIFI-Documentation</a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
      <td><a href="" target="_blank"></a></td>
    </tr>
     <tr>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/" target="_blank">scwg-data-model</a></td>
       <td><a href="" target="_blank"></a></td>
     </tr>
      <tr>
