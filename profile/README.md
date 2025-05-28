@@ -122,7 +122,7 @@
     <tr>
     <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="[https://github.com/OpenMobileAlliance/scwg-distributed-sensor-group" target="_blank">Distributed Sensor Group</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/scwg-distributed-sensor-group" target="_blank">Distributed Sensor Group</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
     </tr>
     <tr>
@@ -137,12 +137,6 @@
      <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
      <td><a href="" target="_blank"></a></td>
    </tr>
-    <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/" target="_blank">scwg-data-model</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
   </tbody>
 </table>
 
