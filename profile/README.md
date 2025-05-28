@@ -115,25 +115,20 @@
     <tr>
       <td><a href="https://github.com/OpenMobileAlliance/enabler_template_repo" target="_blank">enabler_template_repo</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/smart-city-wg" target="_blank">smart-city-wg</a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/scwg_conformance" target="_blank">scwg_conformance</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/scwg-ETS-conformance-for-Smart-City" target="_blank">ETS-conformance-for-Smart-City
+</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
     </tr>
     <tr>
     <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/ucifi-download" target="_blank">ucifi-download</a></td>
+      <td><a href="[https://github.com/OpenMobileAlliance/scwg-distributed-sensor-group" target="_blank">Distributed Sensor Group</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
     </tr>
     <tr>
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
       <td><a href="https://github.com/OpenMobileAlliance/uCIFI_Schedule_Framework" target="_blank">uCIFI_Schedule_Framework</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-    <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Documentation" target="_blank">uCIFI-Documentation</a>
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
@@ -146,18 +141,6 @@
       <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
       <td><a href="https://github.com/OpenMobileAlliance/" target="_blank">scwg-data-model</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-     <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/scwg-data-model-framework" target="_blank">scwg-data-model-framework</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-     <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
     </tr>
   </tbody>
