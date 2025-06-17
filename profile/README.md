@@ -115,7 +115,8 @@
     <tr>
       <td><a href="https://github.com/OpenMobileAlliance/enabler_template_repo" target="_blank">enabler_template_repo</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/smart-city-wg" target="_blank">smart-city-wg</a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/scwg_conformance" target="_blank">scwg_conformance</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/scwg-ETS-conformance-for-Smart-City" target="_blank">ETS-conformance-for-Smart-City
+</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
     </tr>
     <tr>
@@ -131,35 +132,11 @@
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Documentation" target="_blank">uCIFI-Documentation</a>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-    <tr>
      <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
-     <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/scwg-data-model" target="_blank">scwg-data-model</a></td>
      <td><a href="" target="_blank"></a></td>
    </tr>
-    <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/" target="_blank">scwg-data-model</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-     <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/scwg-data-model-framework" target="_blank">scwg-data-model-framework</a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
-     <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
-    </tr>
   </tbody>
 </table>
 
