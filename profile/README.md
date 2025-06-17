@@ -120,7 +120,7 @@
     </tr>
     <tr>
     <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
-      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/Strat-Comm" target="_blank">Strat-Comm</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ucifi-download" target="_blank">ucifi-download</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
     </tr>
