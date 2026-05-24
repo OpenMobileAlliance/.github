@@ -102,6 +102,7 @@
         <th>Admin</th>
         <th>WG</th>
         <th>uCIFI/Smart-City</th>
+        <th>Utility</th>
         <th>Archived</th>
     </tr>
 </thead>
@@ -110,6 +111,7 @@
       <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Smart-City" target="_blank">uCIFI-Smart-City</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/utility-wg" target="_blank">u-water</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a></td>
     </tr>
     <tr>
@@ -117,24 +119,28 @@
       <td><a href="https://github.com/OpenMobileAlliance/smart-city-wg" target="_blank">smart-city-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/scwg-ETS-conformance-for-Smart-City" target="_blank">ETS-conformance-for-Smart-City
 </a></td>
+      <td><a href="" target="_blank"></a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
     </tr>
     <tr>
     <td><a href="https://github.com/OpenMobileAlliance/project-support-office" target="_blank">project-support-office</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/Strat-Comm" target="_blank">Strat-Comm</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ucifi-download" target="_blank">ucifi-download</a></td>
+      <td><a href="" target="_blank"></a></td>
       <td><a href="https://github.com/OpenMobileAlliance/utility-outreach" target="_blank">utility-outreach</a></td>
     </tr>
     <tr>
       <td><a href="" target="_blank"></a></td>
-      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/utility-wg" target="_blank">utility-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/uCIFI_Schedule_Framework" target="_blank">uCIFI_Schedule_Framework</a></td>
+      <td><a href="" target="_blank"></a></td>
       <td><a href="" target="_blank"></a></td>
     </tr>
     <tr>
      <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
      <td><a href="https://github.com/OpenMobileAlliance/scwg-data-model" target="_blank">scwg-data-model</a></td>
+     <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
    </tr>
   </tbody>
