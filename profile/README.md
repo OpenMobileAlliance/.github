@@ -111,7 +111,7 @@
       <td><a href="https://github.com/OpenMobileAlliance/.github" target="_blank">.github</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/dmso-wg" target="_blank">dmso-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/uCIFI-Smart-City" target="_blank">uCIFI-Smart-City</a></td>
-      <td><a href="https://github.com/OpenMobileAlliance/utility-wg" target="_blank">u-water</a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/utility-wg" target="_blank">utility-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/dmse-wg" target="_blank">dmse-wg</a></td>
     </tr>
     <tr>
