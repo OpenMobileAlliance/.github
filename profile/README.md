@@ -41,7 +41,7 @@
     <tr>
         <th>LwM2M Objects</th>
         <th>LwM2M Protocol</th>
-        <th colspan="2" style="text-align: center">LwM2M Enablers</th>
+        <th colspan="3" style="text-align: center">LwM2M Enablers</th>
     </tr>
 </thead>
 <tbody>
@@ -50,42 +50,36 @@
      <td><a href="https://github.com/OpenMobileAlliance/LwM2M" target="_blank">LwM2M</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/EventLog" target="_blank">EventLog</a></td>
     <td><a href="https://github.com/OpenMobileAlliance/binary_app_data_container" target="_blank">binary_app_data_container</a></td>
-  </tr>
+    <td><a href="https://github.com/OpenMobileAlliance/advanced_firmware_update" target="_blank">advanced_firmware_update</a></td>
+   </tr>
    <tr>
      <td><a href="https://github.com/OpenMobileAlliance/scwg-lwm2m-registry" target="_blank">scwg-lwm2m-registry</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/ETS_LwM2M" target="_blank">ETS LwM2M</a></td>
-     <td><a href="https://github.com/OpenMobileAlliance/advanced_firmware_update" target="_blank">advanced_firmware_update</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/lwm2m-time-series" target="_blank">lwm2m-time-series</a></td>
-   </tr>
-   <tr>
-     <td><a href="" target="_blank"></a></td>
-     <td><a href="" target="_blank"></a></td>
-     <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
+    <td><a href="https://github.com/OpenMobileAlliance/SwMgmt" target="_blank">SwMgmt</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/DevCapMgmt" target="_blank">DevCapMgmt</a></td>
     </tr>
+   </tr>
     <tr>
      <td><a href="" target="_blank"></a></td>
-     <td><a href="" target="_blank"></a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/svp" target="_blank">lwm2m-spec-validation</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/lock_wipe" target="_blank">lock_wipe</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/enisa_whitepaper" target="_blank">enisa_whitepaper</a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/compact-composite" target="_blank">compact-composite</a></td>
     </tr>
-   <tr>
-    <td><a href="" target="_blank"></a></td>
-    <td><a href="" target="_blank"></a></td>
-    <td><a href="https://github.com/OpenMobileAlliance/compact-composite" target="_blank">compact-composite</a></td>
-    <td><a href="" target="_blank"></a></td>    
-   </tr>
    <tr>
      <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
      <td><a href="https://github.com/OpenMobileAlliance/complex-data-types" target="_blank">complex-data-types</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/lwm2m-bootstrapping-cellular-networks" target="_blank">Lwm2m-bootstrapping-cellular-networks (main/tech_specs)</a></td>
+     <td><a href="https://github.com/OpenMobileAlliance/Gateway" target="_blank">Gateway</a></td>
    </tr>
    <tr>
      <td><a href="" target="_blank"></a></td>
      <td><a href="" target="_blank"></a></td>
-     <td><a href="https://github.com/OpenMobileAlliance/Gateway" target="_blank">Gateway</a></td>
      <td><a href="https://github.com/OpenMobileAlliance/lwm2m-queries" target="_blank">lwm2m-queries</a> (main/WID)</td>
+     <td></td>
+     <td></td>
   </tr>
   <tr>
      <td><a href="" target="_blank"></a></td>
