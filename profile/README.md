@@ -113,7 +113,7 @@
       <td><a href="https://github.com/OpenMobileAlliance/smart-city-wg" target="_blank">smart-city-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/scwg-ETS-conformance-for-Smart-City" target="_blank">ETS-conformance-for-Smart-City
 </a></td>
-      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/OpenMobileAlliance/utility-wg" target="_blank">utility-wg</a></td>
       <td><a href="https://github.com/OpenMobileAlliance/ipso-wg" target="_blank">ipso-wg</a></td>
     </tr>
     <tr>
